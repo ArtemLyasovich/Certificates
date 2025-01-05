@@ -9,3 +9,6 @@ https://stepik.org/cert/1702821?lang=en
 
 3) Algorithms: theory and practice. Data structures
 https://stepik.org/cert/1757862?lang=en
+
+4) PRO Go. Programming Basics
+https://stepik.org/cert/2716497?lang=en
